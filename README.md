@@ -14,7 +14,7 @@ _Include an image showing the assembled system with Arduino, sensors, LCD, buzze
 ### Electrical Diagram
 _Include a schematic or Fritzing diagram showing wiring between components._
 
-![Circuit Diagram](assets/Electrical Schematics.pdf)
+![Circuit Diagram](https://cdn.discordapp.com/attachments/1208343853883457577/1412533093247746208/image.png?ex=68b8a375&is=68b751f5&hm=182d5a721aff403fe68af5208df590f19475edb3ab702dd0784774eb54f5eb80&)
 
 ---
 
